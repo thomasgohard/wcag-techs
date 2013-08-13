@@ -1,0 +1,8 @@
+language: ruby
+branches:
+  only:
+  - master
+script:
+- ./build.sh
+env:
+  secure: frx21TSmOantYyOQYE3yDQKzzxDL4y7zbbrpIUg95LCWAOeiQXieRN6JoDS0GY/SQYjt6WJSk4C3cZR0UdYnlI0+X9lKni1Gn1CroSsyKG5YOX1G0KQF6IyXFz9izzDe8UW/cz41GCi9pE6sQwudjEOmNUh+WrfthwO7YyXijtE=
