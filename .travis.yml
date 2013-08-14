@@ -5,4 +5,6 @@ branches:
 script:
 - ./build.sh
 env:
-    secure: wWwPwSaNUhGVVcOB9+plfRA6VMfFc6zDRYBtNUQt+3Twccb3zE5C0QYoc4qRu228MVPlBtT4TP5GPN1rzcGzKqgOxe7oG8NbRVcqRCc+7XpYbhvY1J5wEf44BFEaQv/YrookLnHEtd+jvQ/plhq6PRvON5zy4tOM4H8LgMDaN54=
+  global:
+  - secure: wg3poQxg4OBtyiYYA8Fa7pX9LmKvCFUjfEyHDznNKp5QJ3ufLUZ9+lCjlTlLZDTtzryVv2U2aLnW2dUQFiIs/UFNiOmr7Ax1pk15ttI3l3hURTP7lKlPcvnF9CmGB3Wpq0zdIfLMH0MUTq77nQFmJTR1hBV+OzlsY/FsYFMdpWU=
+  - secure: qhuhwykseRw3w0h73aQ92s2ZOpL065OWW7CUk8xZ2/BaBb+3+h3BVGijXt+F5N4J39lqcyL2fF8GXt+mS8rpJU8tfn3oPsrlFz0mvhuA1zV+nav2tr6QIUMHkqP2L+2jbkvJjHe29VNheEfrHjr7RO5g6G0/tv85HRXA64sdpf0=
