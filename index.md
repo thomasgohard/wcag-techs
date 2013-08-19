@@ -4,6 +4,8 @@ layout: w3-wgnote
 title: Techniques for <acronym title="Web Content Accessibility Guidelines">WCAG</acronym> 2.0
 subtitle: Techniques and Failures for Web Content Accessibility Guidelines 2.0
 date: 3 January 2012
+
+editable: true
 ---
 
 Abstract
